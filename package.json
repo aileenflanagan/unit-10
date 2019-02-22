@@ -1,0 +1,24 @@
+{
+  "name": "unit-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aileenflanagan/unit-10.git"
+  },
+  "keywords": [],
+  "author": "Aileen Flanagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aileenflanagan/unit-10/issues"
+  },
+  "homepage": "https://github.com/aileenflanagan/unit-10#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0"
+  }
+}
